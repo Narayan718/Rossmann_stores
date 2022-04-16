@@ -1,6 +1,8 @@
 <h1 align="center"> Retail Sales Prediction </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![image](https://en.wikipedia.org/wiki/Rossmann_(company)#/media/File:Dirk_Rossmann_GmbH.jpg)
+
 <p>I have developed a model which can predict future sales in Python using the Linear Regression and Random Forest Regressor.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
