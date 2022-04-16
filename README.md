@@ -15,7 +15,7 @@ This project is aimed at predicting the daily sales of Rossmann Stores for upto 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<img target="_blank" src="https://user-images.githubusercontent.com/32620288/141337653-a5d66ee6-da22-4f2d-adba-c14f2d343329.png" width=1000; height=300>
+
 
 <h2> :book: Dataset information:</h2>
 
